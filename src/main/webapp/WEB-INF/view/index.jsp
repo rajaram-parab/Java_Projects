@@ -167,7 +167,7 @@
 	<script src="resources/js/ie10-viewport-bug-workaround.js"></script>
 	
 	<!-- Placeholder Images -->
-	<script src="resources/js/holder.min.js"></script>
+	<!-- <script src="resources/js/holder.min.js"></script> -->
 	
 </body>
 
